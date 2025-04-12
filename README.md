@@ -4,5 +4,7 @@ The provided script is designed to interpret a given UserAccountControl value an
 
 ## How works ?
     python3 MSuacCalc.py 4130
+    
+    ./MSuacCalc.ps1 -bitmask 4130
 ![alt text](https://raw.githubusercontent.com/CobblePot59/ms-uac_calc/main/pictures/ms-uac_calc.png)
 
